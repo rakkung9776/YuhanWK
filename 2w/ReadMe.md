@@ -97,14 +97,14 @@ __작성 방식__
 - - -
 
 6. 코드블럭     
-코드블럭은 ("<pre><code>{code}</code></pre>") 이용방식 으로 사용할수 있다
+코드블럭은 pre><code>{code}</code></pre> 이용방식 으로 사용할수 있다
 7. 링크     
 링크는
 [link keyword][id]
 
 [id]: URL "Optional Title here"
 
-("Link: [Google][googlelink]")
+(Link: [Google][googlelink])
 
 ([googlelink]: https://google.com "Go google")
 처럼 만들면 된다
