@@ -97,7 +97,7 @@ __작성 방식__
 - - -
 
 6. 코드블럭     
-코드블럭은 pre><code>{code}</code></pre> 이용방식 으로 사용할수 있다
+코드블럭은 pre code {code} /code  /pre  이용방식 으로 사용할수 있다
 7. 링크     
 링크는
 [link keyword][id]
@@ -107,5 +107,17 @@ __작성 방식__
 (Link: [Google][googlelink])
 
 ([googlelink]: https://google.com "Go google")
-처럼 만들면 된다
+처럼 만들면 된다    
+8. 강조
+강조는 (*, **, _ , __ , ~~ )을 이용한다     
+*감자*      
+_감자_      
+**감자**    
+__감자__    
+~~감자~~        
+9. 이미지   
+이미지는 
+![Alt text](이미지 경로)
+로 사용한다
+
 
